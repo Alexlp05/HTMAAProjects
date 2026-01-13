@@ -21,7 +21,7 @@ const Index = () => {
                     <div className="text-center space-y-4">
                         <h1 className="text-5xl md:text-7xl font-bold">
                             <span className="bg-gradient-to-r from-primary via-accent to-primary-glow bg-clip-text text-transparent">
-                                My Projects
+                                How To Make (Almost) Anything Projects
                             </span>
                         </h1>
                         <p className="text-xl text-muted-foreground">Select a project to explore</p>
@@ -58,7 +58,7 @@ const Index = () => {
                                 </div>
                                 <div className="space-y-4">
                                     <h2 className="text-3xl font-bold group-hover:text-primary transition-colors">
-                                        Project X
+                                        VGA_Core_Dump
                                     </h2>
                                     <p className="text-muted-foreground leading-relaxed">
                                         Something exciting is coming soon. A sneak peek into the next big innovative idea currently in development.
@@ -76,13 +76,13 @@ const Index = () => {
                     {/* Footer */}
                     <footer className="text-center text-muted-foreground pt-12">
                         <p className="text-sm">
-                            © {new Date().getFullYear()} - Alexandre LE PORT
+                            © {new Date().getFullYear()} - Paul SIMMONET, Maxime VIAL, Alexandre LE PORT
                         </p>
                     </footer>
 
                 </div>
-            </section>
-        </div>
+            </section >
+        </div >
     );
 };
 

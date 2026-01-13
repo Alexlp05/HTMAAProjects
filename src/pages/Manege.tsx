@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button";
 import Timeline from "@/components/Timeline";
 import heroBg from "@/assets/hero-bg.jpg";
 import projectIllustration from "@/assets/Gemini_Generated_Image_vbvrcnvbvrcnvbvr.png";
+import MusicPlayer from "@/components/MusicPlayer";
 import { Link } from "react-router-dom";
 
 const Manege = () => {
@@ -11,6 +12,7 @@ const Manege = () => {
 
   return (
     <div className="min-h-screen">
+      <MusicPlayer />
       {/* Hero Section */}
       <section
         className="relative min-h-screen flex items-center justify-center px-4 overflow-hidden"
