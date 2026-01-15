@@ -163,7 +163,7 @@ void loop() {
             {/* Footer */}
             <footer className="py-8 text-center text-muted-foreground border-t border-border">
                 <p className="text-sm">
-                    © {new Date().getFullYear()} - Paul SIMMONET, Maxime VIAL, Alexandre LE PORT
+                    © {new Date().getFullYear()} - Paul SIMONET, Maxime VIAL, Alexandre LE PORT
                 </p>
             </footer>
         </div>
