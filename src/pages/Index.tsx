@@ -76,7 +76,7 @@ const Index = () => {
                     {/* Footer */}
                     <footer className="text-center text-muted-foreground pt-12">
                         <p className="text-sm">
-                            © {new Date().getFullYear()} - Paul SIMMONET, Maxime VIAL, Alexandre LE PORT
+                            © {new Date().getFullYear()} - Paul SIMONET, Maxime VIAL, Alexandre LE PORT
                         </p>
                     </footer>
 
